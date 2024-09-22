@@ -1,0 +1,6 @@
+D:\Ipg202\ConsoleApplication59\ConsoleApplication59\bin\Debug\ConsoleApplication59.exe.config
+D:\Ipg202\ConsoleApplication59\ConsoleApplication59\bin\Debug\ConsoleApplication59.exe
+D:\Ipg202\ConsoleApplication59\ConsoleApplication59\bin\Debug\ConsoleApplication59.pdb
+D:\Ipg202\ConsoleApplication59\ConsoleApplication59\obj\Debug\ConsoleApplication59.csprojResolveAssemblyReference.cache
+D:\Ipg202\ConsoleApplication59\ConsoleApplication59\obj\Debug\ConsoleApplication59.exe
+D:\Ipg202\ConsoleApplication59\ConsoleApplication59\obj\Debug\ConsoleApplication59.pdb
